@@ -1,1 +1,1 @@
-API_TOKEN = '7717274814:AAF8WcSqEQaIXKmW4Yq_OusLBxjRRYG_f7s'
+API_TOKEN = 'Your Father Bot Telegram token'
