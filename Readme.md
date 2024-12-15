@@ -7,14 +7,14 @@
 ## Установка и запуск проекта
 
 1. Клонирование репозитория:
-      git clone [Ссылка на GitHub репозиторий]
+      ```git clone [Ссылка на GitHub репозиторий]```
    
 2. Установка зависимостей:
-      pip install -r requirements.txt 
+     ``` pip install -r requirements.txt ```
    
 3. Укажите токен для Телеграмм бота в config.py
 
-4. Запуск проекта: [python3 bot.py]
+4. Запуск проекта: ```python3 bot.py```
 
 
 ---
@@ -30,19 +30,26 @@
 
 ## Технологии и инструменты
 
-• Python: [`(https://scikit-learn.org/stable/)`]
-• aiogram: [`[https://img.shields.io/badge/aiogram-latest-brightgreen.svg]`]
-• scikit-learn: [`[https://img.shields.io/badge/scikit--learn-%3E0.20-brightgreen.svg](https://scikit-learn.org/stable/)`]
-• RandomForestClassifier
+• **Python:** [![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+
+• **aiogram:** [![aiogram](https://img.shields.io/badge/aiogram-latest-brightgreen.svg)](https://github.com/aiogram/aiogram)  
+
+• **scikit-learn:** [![scikit-learn](https://img.shields.io/badge/scikit--learn-%3E0.20-brightgreen.svg)](https://scikit-learn.org/stable/)
+
+• **RandomForestClassifier:** (This is an algorithm, not a library; no badge needed)
+
 
 ---
 
 ## Команда проекта
 
-• [Уросов Дмитрий]: [Разработчик машинного обучения, питчер] [@dmmmit]
-• [Смирнов Павел]: [Разработчик машинного обучения] [@pa8lusha]
-• [Каримов Айдар]: [Разработчик машинного обучения, питчер] [@aidarkarimovvw]
-• [Оркин Родион]: [Разработчик машинного обучения] [@bizarreman]
+• [Уросов Дмитрий]: [Разработчик машинного обучения, питчер] [@dmmmit](@dmmmit)
+
+• [Смирнов Павел]: [Разработчик машинного обучения] [@pa8lusha](@pa8lusha)
+
+• [Каримов Айдар]: [Разработчик машинного обучения, питчер] [@aidarkarimovvw](@aidarkarimovvw)
+
+• [Оркин Родион]: [Разработчик машинного обучения] [@bizarreman](@bizarreman)
 
 
 ---
@@ -68,6 +75,11 @@ pcb_hse_hack/
 
 ## Демонстрация работы проекта
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/53b0b799-1a8d-4759-ac6e-519550099dfa" alt="Image 1" width="400" height="auto">
+  <img src="https://github.com/user-attachments/assets/385795ae-e001-4673-935b-f8eb9738c949" alt="Image 2" width="400" height="auto">
+</div>
+
 
 
 ---
@@ -83,3 +95,10 @@ pcb_hse_hack/
 • Добавление новых признаков для повышения точности прогнозов (например, анализ текста отзывов).
 • Разработка более детального отчета об отмене бронирования.
 • Адаптация модели под разные типы отелей.
+
+
+---
+
+
+## **Лицензия**
+- Лицензия: MIT License
